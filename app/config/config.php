@@ -79,7 +79,7 @@ $config['ENVIRONMENT']             = 'development';
 | WARNING: You MUST set this value!
 |
 */
-$config['base_url'] 				= 'http://localhost/matt_martin/';
+$config['base_url'] 				= 'https://student-management-system-gntn.onrender.com';
 
 /*
 |--------------------------------------------------------------------------
